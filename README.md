@@ -1,2 +1,3 @@
-# course-uiux-fa-1405
-دوره طراحی UI/UX فارسی از صفر
+# دوره UI/UX فارسی
+
+https://beig-rules.github.io/course-uiux-fa-1405/
